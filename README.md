@@ -1,4 +1,4 @@
-## This is a simple multi-threaded implemented on Berkeley sockets (UNIX) server with can handle multiple client connections.
+## This is a simple multi-threaded chat server implemented on Berkeley sockets (UNIX) server with can handle multiple client connections.
 
 ### Requirements:
  - gcc version 8.0 > or higher
